@@ -1,0 +1,15 @@
+{
+  "name": "@oracle/vb",
+  "version": "2504.0.0-rc1.0",
+  "release": "Nubian",
+  "description": "Oracle Visual Builder",
+  "private": true,
+  "engines": {
+    "npm": ">=8.1.0",
+    "node": ">=18.18.0"
+  },
+  "scripts": {},
+  "dependencies": {},
+  "devDependencies": {},
+  "overrides": {}
+}
