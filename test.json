@@ -10,6 +10,8 @@
   },
   "scripts": {},
   "dependencies": {},
-  "devDependencies": {},
+  "devDependencies": {
+    "workbox-build": "6.5.4"
+  },
   "overrides": {}
 }
