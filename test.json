@@ -1,6 +1,6 @@
 {
   "name": "@oracle/vb",
-  "version": "2504.0.0-rc1.0",
+  "version": "2504.0.0-rc1.3",
   "release": "Nubian",
   "description": "Oracle Visual Builder",
   "private": true,
@@ -11,7 +11,7 @@
   "scripts": {},
   "dependencies": {},
   "devDependencies": {
-    "workbox-build": "6.5.4"
+    "workbox-build": "6.5.3"
   },
   "overrides": {}
 }
